@@ -1,5 +1,5 @@
 {
-  "name": "com.syngleton.project-setup-tools",
+  "name": "com.syngleton20.project-setup-tools",
   "version": "1.0.0",
   "displayName": "Project Setup Tools",
   "description": "Tools used to set up common defaults for Unity Projects (both 2D and 3D).",
