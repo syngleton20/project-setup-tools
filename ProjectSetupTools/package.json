@@ -1,0 +1,12 @@
+{
+  "name": "com.syngleton.project-setup-tools",
+  "version": "1.0.0",
+  "displayName": "Project Setup Tools",
+  "description": "Tools used to set up common defaults for Unity Projects (both 2D and 3D).",
+  "unity": "2020.3",
+  "author": {
+    "name": "syngleton"
+  },
+  "type": "tool",
+  "unityRelease": "14f1"
+}
