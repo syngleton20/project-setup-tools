@@ -5,7 +5,7 @@
   "description": "Tools used to set up common defaults for Unity Projects (both 2D and 3D).",
   "unity": "2020.3",
   "author": {
-    "name": "syngleton"
+    "name": "syngleton20"
   },
   "type": "tool",
   "unityRelease": "14f1"
